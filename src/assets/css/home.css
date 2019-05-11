@@ -1,0 +1,13 @@
+.Left{
+    height:1000px;
+    width:auto;
+    float: left;
+    background-color:#1DA1F2;
+    color: #ffffff;
+    font-weight:bold;
+}
+
+.bodys{
+    margin-top: 50px;
+    margin-left: 50px;
+}

@@ -1,0 +1,57 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height:900px ;
+    line-height: 900px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+}
+.a{
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
+.a1{
+  background-image: url(../images/1.jpg);
+  width: 900px;
+}
+.a2{
+  background-image: url(../images/2.jpg);
+  width: 900px;
+}
+.a3{
+  background-image: url(../images/3.jpg);
+  width: 900px;
+}
+.a4{
+  background-image: url(../images/4.jpg);
+  width: 900px;
+}
+
+.avatar-uploader > .ant-upload {
+  width: 128px;
+  height: 128px;
+}
+
+
+/*Layout*/
+#components-layout-demo-custom-trigger .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color .3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  background: rgba(255,255,255,.2);
+  margin: 16px;
+}
